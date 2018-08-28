@@ -1,0 +1,77 @@
+.Alljobs .logo {
+position: relative;
+left: 15px;
+top: 15px;
+width: 70px;
+height: 80px;
+
+}
+.Alljobs h1{
+	font-family:"Open Sans",sans-serif;
+}
+.Jobitem-item{
+	
+	padding-top: 0;
+	width: 675px;
+}
+.Jobitem-item button{
+	width: 80px;
+	height: 50px;
+	position: relative;
+	top: 50px;
+	right: 20px;
+}
+.Jobitem-item .jobitem{
+	
+	margin-top: 0;
+	height: 215px;
+}
+.Jobitem-item .fa-times-circle{
+	margin-left: 5px;
+}
+.jobitem{
+	background-color: #f9f9f9;
+	width: 730px;
+	height: 215px;
+	border-top: 2px solid #e7e7e8;
+	border-bottom-color: #e7e7e8;
+
+}
+.jobitem .content h2{
+	color: black;
+	font-family:"Open Sans",sans-serif;
+	font-size: 23px;
+}
+.jobitem .content p{
+	color: #908080;
+	font-family:"Open Sans",sans-serif;
+
+	font-size: 16px;
+}
+.jobitem .skill{
+	margin-top: 30px;
+}
+.jobitem .skill span{
+	color: #727272;
+	font-family:"Open Sans",sans-serif;
+	font-size: 13px;
+	border: 1px solid #908080;
+	margin-left: 10px;
+	padding: 5px;
+
+}
+.jobitem .location h4{
+	color: #727272;
+	font-family:"Open Sans",sans-serif;
+	font-size: 15px;
+
+	position: relative;
+	top: 50px;
+	right: 20px;
+}
+.jobitem .location .fa-times-circle{
+	float: right;
+	font-size: 25px;
+	margin-top: 10px;
+	
+}

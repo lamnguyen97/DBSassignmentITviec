@@ -1,0 +1,45 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:5000/",
+  "devDependencies": {
+    "cross-env": "^5.1.1",
+    "enzyme": "2.4.1",
+    "react-addons-test-utils": "15.4.0",
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt-nodejs": "latest",
+    "body-parser": "~1.15.2",
+    "connect-flash": "~0.1.1",
+    "cookie-parser": "~1.4.3",
+    "ejs": "~2.5.2",
+    "express": "~4.14.0",
+    "express-session": "~1.14.1",
+    "jquery": "^3.3.1",
+    "method-override": "~2.3.6",
+    "moment": "^2.22.0",
+    "morgan": "~1.7.0",
+    "mysql": "^2.15.0",
+    "passport": "~0.3.2",
+    "passport-local": "~1.0.0",
+    "path": "^0.12.7",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-rating-system": "^1.0.7",
+    "react-router": "^3.2.1",
+    "react-scripts": "1.1.1",
+    "react-star-rating-component": "^1.4.1",
+    "superagent": "^3.8.3",
+    "sweetalert": "^2.1.0",
+    "sweetalert2": "^7.19.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,59 @@
+.search-company button{
+
+}
+.companyitem .logo {
+position: relative;
+left: 15px;
+top: 15px;
+width: 70px;
+height: 80px;
+
+}
+.companyitem{
+	background-color: #f9f9f9;
+	width: 730px;
+	height: 215px;
+	border-top: 2px solid #e7e7e8;
+	border-bottom-color: #e7e7e8;
+    width: 70%;
+	height: 250px;
+}
+.companyitem h2{
+	color: black;
+	font-family:"UTM helve";
+	font-size: 30px;
+
+}
+.companyitem span{
+	color: #727272;
+	font-family:"UTM helve";
+	font-size: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.companyitem .skill span{
+	font-size: 11px;
+	border: 1px solid #908080;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.companyitem .content span{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size: 14px;
+	padding: 5px;
+
+}
+.companyitem .desc{
+	margin-bottom: 30px;
+}
+.companyitem .location{
+	color: #727272;
+	font-family:"Open Sans",sans-serif;
+	font-size: 14px;
+	position: relative;
+	top: 50px;
+	right: 35px;
+}

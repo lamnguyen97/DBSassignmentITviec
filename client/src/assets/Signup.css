@@ -1,0 +1,52 @@
+.Hidden{
+	display:none;
+}
+.Signup{
+
+	margin: 0 auto;
+	text-align: center;
+
+	width: 350px;
+	height: 500px;
+	border: 1px black solid;
+	border-radius: 8px;
+	margin-top: 15px;
+   
+}
+.Signup .Candidate-SignUp input{
+	width: 80%;
+	position: relative;
+	left: 35px;
+}
+.Signup .Company-SignUp input{
+	width: 80%;
+	position: relative;
+	left: 35px;
+}
+.Signup-Hidden{
+	display: none;
+}
+
+.tabCan, .tabEm{
+	border: 2px solid;
+	border-radius: 3px;
+	width:100px;
+	margin: 5px 5px;
+	height: 40px;
+	font-size: 14px;
+	background: #fff;
+
+	font-family: 'Raleway', sans-serif;
+}
+.Signup h3{
+	font-family: 'Raleway', sans-serif;
+}
+input {
+	margin-top: 20px;
+	width: 70%;
+	
+}
+.submit-button{
+
+	margin-top: 30px;
+}

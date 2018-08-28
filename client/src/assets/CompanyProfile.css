@@ -1,0 +1,120 @@
+.Company-profile{
+	background-color: grey;
+    width: 100%;
+   
+    margin: 0;
+    margin-top: 0;
+    
+}
+.Company-profile .image img{
+	width: 1024px;
+	height: 500px;
+	margin: 0 auto;
+
+}
+.Company-profile .image {
+	text-align: center;
+
+}
+.Company-profile .Pan{
+    margin: 0 auto;
+	width: 1024px;
+	height: 215px;
+	
+	background-color: #fff!important;
+}
+.Company-profile .Pan .info{
+	font-size:16px;
+}
+.Company-profile .Pan span{
+margin-left: 10px;
+margin-right:10px;
+
+
+}
+.Company-profile .Pan .info div{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.Company-profile .Pan .logo{
+	width: 170px;
+	height: 160px;
+}
+.review{
+	text-align: center;
+}
+.addReview{
+	width: 180px;
+	height: 40px;
+	border-radius: 6px;
+	color: white;
+	background-color: red;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 30px;
+	
+}
+.Company-profile .Body {
+
+	margin: 0 auto;
+	width: 1024px;
+}
+.Company-profile .Body .overview{
+   
+	margin-top: 10px;
+	background-color: #fff
+}
+.Company-profile .Body .overview .tab-pane{
+padding: 20px;
+}
+.Company-profile .Body .JobCompany{
+	position: relative;
+	left: 13px;
+}
+.Company-profile .Body .jobitem{
+
+	
+	background-color: #fff
+}
+.Company-profile .Body .jobitem {
+    margin-top: 50px;
+	width: 100%;
+}
+.Company-profile .Body .jobitem .logo{
+	width: 90px;
+	height: 90px;
+
+}
+.Company-profile .Body .skill span{
+	font-size: 11px;
+	border: 1px solid #908080;
+	margin-left: 10px;
+	width: 50px;
+	height: 40px;
+	
+	padding: 8px;
+	
+}
+.Company-profile .Body .jobitem .location{
+	
+	
+}
+.Company-profile .Body .rating{
+    position: relative;
+	right: 16px;
+	
+	margin-top: 10px;
+    color: #fff;
+	height: 288px;
+	text-align: center;
+}
+.Company-profile .Body .rating-big{
+	margin-left: 5px;
+	margin-right: 5px;
+
+}
+.Company-profile .Body .rating-big span{
+	font-size: 30px;
+
+
+}
