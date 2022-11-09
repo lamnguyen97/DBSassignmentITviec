@@ -7,7 +7,7 @@
     "cross-env": "^5.1.1",
     "enzyme": "2.4.1",
     "react-addons-test-utils": "15.4.0",
-    "react-scripts": "0.8.5"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -30,7 +30,7 @@
     "react-dom": "^16.2.0",
     "react-rating-system": "^1.0.7",
     "react-router": "^3.2.1",
-    "react-scripts": "1.1.1",
+    "react-scripts": "5.0.1",
     "react-star-rating-component": "^1.4.1",
     "superagent": "^3.8.3",
     "sweetalert": "^2.1.0",
