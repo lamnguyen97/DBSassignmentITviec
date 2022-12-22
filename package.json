@@ -16,7 +16,7 @@
     "express-session": "~1.14.1",
     "fake-useragent": "^1.0.1",
     "fs": "0.0.2",
-    "jsonwebtoken": "^7.4.3",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.1.0",
     "key-del": "^1.2.4",
     "lodash": "^4.17.10",
